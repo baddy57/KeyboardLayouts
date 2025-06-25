@@ -2,7 +2,7 @@
 
 ## Installazione
 
-https://onedrive.live.com/?id=952f8eb570b7ad27%2116602&cid=952F8EB570B7AD27
+https://drive.google.com/open?id=1eQNsc3yEbNdTMIJk1s6rPz4d7fT5Dz7p&usp=drive_fs
 
 scarica la cartella release
 
